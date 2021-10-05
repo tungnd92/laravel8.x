@@ -4,8 +4,6 @@
     php version 8.0.x
     Laravel Framework 8.49.2
 
-Clone source code and config.
-
 ### Checkout source code
     clone source from https://github.com/tungnd92/laravel8.x.git
 
